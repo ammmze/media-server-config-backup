@@ -86,9 +86,9 @@ echo -e "\e[00;32mBeginning Backup\e[00m"
 echo "----------------"
 echo ""
 
-stop_everything
+#stop_everything
 
 copy_config
 
-start_everything
+#start_everything
 
